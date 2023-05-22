@@ -1,0 +1,3109 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Demo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Demo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\drake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tesla-model-s.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_backgrounds.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_components.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_dropdown-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_dropdown-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_floating-elements.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_floating-elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_list-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_list-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_ripple.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_rtl-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_rtl-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\badges\\_badge-circle.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\badges\\_badge-dot.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\badges\\_badge-floating.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\badges\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\badges\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\cards\\card-blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\card-blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\card-horizontal.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\card-pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\cards\\card-profile.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\card-profile.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_carousel-slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_datatable.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_dragula.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_dropzone.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_fullcalendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_glidejs.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_kanban.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_leaflet.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_list-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_photoswipe.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_quill.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_rating-widget.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_sweetalert2.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\_vector-map.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\multi-step.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\plugins\\pro\\plugins-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\theme-pro.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\theme-pro.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_ripple.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\font.awesome.css",
+      "PackagePath": "staticwebassets\\css\\font.awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\slinky.menu.css",
+      "PackagePath": "staticwebassets\\css\\slinky.menu.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\Linearicons-Free54e9.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\Linearicons-Free54e9.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\Linearicons-Free54e9.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\Linearicons-Free54e9.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\Linearicons-Free54e9.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free54e9.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\Linearicons-Freed41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Freed41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\plaza-icon56cc.eot",
+      "PackagePath": "staticwebassets\\fonts\\plaza-icon56cc.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\plaza-icon56cc.svg",
+      "PackagePath": "staticwebassets\\fonts\\plaza-icon56cc.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\plaza-icon56cc.ttf",
+      "PackagePath": "staticwebassets\\fonts\\plaza-icon56cc.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\fonts\\plaza-icon56cc.woff",
+      "PackagePath": "staticwebassets\\fonts\\plaza-icon56cc.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner1.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner10.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner11.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner3.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner4.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner5.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner6.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner7.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner8.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\banner\\banner9.jpg",
+      "PackagePath": "staticwebassets\\img2\\banner\\banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\img2\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\img2\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\img2\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\blog\\blog4.jpg",
+      "PackagePath": "staticwebassets\\img2\\blog\\blog4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\other\\free_shipping.png",
+      "PackagePath": "staticwebassets\\img2\\other\\free_shipping.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\other\\free_shipping2.png",
+      "PackagePath": "staticwebassets\\img2\\other\\free_shipping2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\other\\free_shipping3.png",
+      "PackagePath": "staticwebassets\\img2\\other\\free_shipping3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\other\\free_shipping4.png",
+      "PackagePath": "staticwebassets\\img2\\other\\free_shipping4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product1.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product10.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product2.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product3.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product4.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product5.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product6.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product7.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product8.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\product9.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\productbig1.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\productbig1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\productbig2.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\productbig2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\productbig3.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\productbig3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\productbig4.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\productbig4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\product\\productbig5.jpg",
+      "PackagePath": "staticwebassets\\img2\\product\\productbig5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\s-product\\product1.jpg",
+      "PackagePath": "staticwebassets\\img2\\s-product\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\s-product\\product2.jpg",
+      "PackagePath": "staticwebassets\\img2\\s-product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\img2\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\img2\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\img2\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img2\\slider\\slider4.jpg",
+      "PackagePath": "staticwebassets\\img2\\slider\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner1.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner3.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner4.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner5.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner6.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner7.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner8.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\banner\\banner9.jpg",
+      "PackagePath": "staticwebassets\\img3\\banner\\banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\img3\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\img3\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\img3\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\other\\free_shipping.png",
+      "PackagePath": "staticwebassets\\img3\\other\\free_shipping.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\other\\free_shipping2.png",
+      "PackagePath": "staticwebassets\\img3\\other\\free_shipping2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\other\\free_shipping3.png",
+      "PackagePath": "staticwebassets\\img3\\other\\free_shipping3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\other\\free_shipping4.png",
+      "PackagePath": "staticwebassets\\img3\\other\\free_shipping4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product1.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product10.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product11.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product12.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product2.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product3.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product4.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product5.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product6.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product7.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product8.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\product\\product9.jpg",
+      "PackagePath": "staticwebassets\\img3\\product\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\s-product\\product1.jpg",
+      "PackagePath": "staticwebassets\\img3\\s-product\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\s-product\\product2.jpg",
+      "PackagePath": "staticwebassets\\img3\\s-product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\img3\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\img3\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\img3\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img3\\slider\\slider4.jpg",
+      "PackagePath": "staticwebassets\\img3\\slider\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\About_icon1.png",
+      "PackagePath": "staticwebassets\\img\\about\\About_icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\About_icon2.png",
+      "PackagePath": "staticwebassets\\img\\about\\About_icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\About_icon3.png",
+      "PackagePath": "staticwebassets\\img\\about\\About_icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\about-us-policy-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-us-policy-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\about-us-signature.png",
+      "PackagePath": "staticwebassets\\img\\about\\about-us-signature.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\about1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\about2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\about3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\about4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping10.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping11.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping12.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping5.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping6.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping7.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping8.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\shipping9.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\shipping9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\testimonial1.png",
+      "PackagePath": "staticwebassets\\img\\about\\testimonial1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\testimonial2.png",
+      "PackagePath": "staticwebassets\\img\\about\\testimonial2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\testimonial3.png",
+      "PackagePath": "staticwebassets\\img\\about\\testimonial3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\about\\testimonials-icon.png",
+      "PackagePath": "staticwebassets\\img\\about\\testimonials-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg-icon.png",
+      "PackagePath": "staticwebassets\\img\\bg-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner10.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner11.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner12.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner13.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner14.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner15.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner16.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner17.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner18.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner4.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner5.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner6.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner7.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner8.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\bg\\banner9.jpg",
+      "PackagePath": "staticwebassets\\img\\bg\\banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog-big1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog-big2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog-big3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog-big4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog-big5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-big5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blog3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blogs1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blogs1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blogs2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blogs2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\blogs3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blogs3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\comment2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\comment2.png.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment2.png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\blog\\comment3.png.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comment3.png.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\brand\\brand1.jpg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\brand\\brand2.jpg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\brand\\brand3.jpg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\brand\\brand4.jpg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon-1.png",
+      "PackagePath": "staticwebassets\\img\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon-2.png",
+      "PackagePath": "staticwebassets\\img\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon-3.png",
+      "PackagePath": "staticwebassets\\img\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\bkg_grid.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bkg_grid.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\bkg_grid4.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bkg_grid4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\bkg_grid4_hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bkg_grid4_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\bkg_grid_hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bkg_grid_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\bkg_list.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bkg_list.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\bkg_list_hover.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bkg_list_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\icon-phone.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\icon-phone2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-phone2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\icon-phone3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\icon-phone3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\img\\icon\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\papyel.png",
+      "PackagePath": "staticwebassets\\img\\icon\\papyel.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\paypal1.jpg",
+      "PackagePath": "staticwebassets\\img\\icon\\paypal1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\paypal2.jpg",
+      "PackagePath": "staticwebassets\\img\\icon\\paypal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\paypal3.jpg",
+      "PackagePath": "staticwebassets\\img\\icon\\paypal3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\icon\\paypal4.jpg",
+      "PackagePath": "staticwebassets\\img\\icon\\paypal4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\logo\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product15.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product16.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product17.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product18.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product19.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product20.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product21.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product22.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product23.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product24.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product25.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product26.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product27.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product28.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product29.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product30.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\productbig9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\productbig9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\s-product\\product.jpg",
+      "PackagePath": "staticwebassets\\img\\s-product\\product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\s-product\\product2.jpg",
+      "PackagePath": "staticwebassets\\img\\s-product\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\service\\services1.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\services1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\service\\services2.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\services2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\service\\services3.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\services3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\service\\services4.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\services4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider10.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider11.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider12.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider4.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider5.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider6.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider7.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider8.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\slider\\slider9.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\slider9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\js\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.instagramFeed.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.instagramFeed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\jquery.ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ui.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\slinky.menu.js",
+      "PackagePath": "staticwebassets\\js\\slinky.menu.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\tippy-bundle.umd.js",
+      "PackagePath": "staticwebassets\\js\\tippy-bundle.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\vendor\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\js\\vendor\\modernizr-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\Screenshot 2023-03-11 221611.png",
+      "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-03-11 221611.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\db.png",
+      "PackagePath": "staticwebassets\\uploads\\db.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Demo.props",
+      "PackagePath": "build\\Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.props",
+      "PackagePath": "buildMultiTargeting\\Demo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Demo.props",
+      "PackagePath": "buildTransitive\\Demo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

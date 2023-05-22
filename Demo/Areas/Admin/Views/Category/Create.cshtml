@@ -1,0 +1,38 @@
+﻿@model Demo.Models.Category
+
+@{
+    ViewData["Title"] = "Thêm Mới Danh Mục";
+}
+
+<main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg ">
+    <div class="container-fluid py-4">
+        <div class="row min-vh-80">
+            <div class="col-lg-8 col-md-10 col-12 m-auto">
+                <h3 class="mt-3 mb-0 text-center">THÊM MỚI DANH MỤC</h3>
+                <p class="lead font-weight-normal opacity-8 mb-7 text-center">
+                </p>
+                <div class="card">
+                    <div class="card-body">
+                        <form asp-action="Create" method="POST" enctype="multipart/form-data">
+                           
+                            <div class="input-group input-group-static mb-4">
+                                <label asp-for="Name" class="control-label"></label>
+                                <input asp-for="Name" class="form-control" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+                           
+                            <span class="input-group-append mt-3">
+                                <button type="submit" class="btn btn-primary">Thêm mới</button>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

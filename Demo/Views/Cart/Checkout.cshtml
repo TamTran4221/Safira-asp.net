@@ -1,0 +1,127 @@
+﻿
+@{
+    ViewData["Title"] = "Checkout";
+}
+<div class="breadcrumbs_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb_content">
+                    <h3>Thanh Toán</h3>
+                    <ul>
+                        <li><a href="index.html">Trang chủ</a></li>
+                        <li>Thanh toán</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="Checkout_section mt-70">
+    <div class="container">
+        
+        <div class="checkout_form">
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
+                    <form action="#">
+                        <h3>Thông tin giao hàng</h3>
+                        <div class="row">
+
+                            <div class="col-lg-6 mb-20">
+                                <label>Họ <span>*</span></label>
+                                <input type="text">
+                            </div>
+                            <div class="col-lg-6 mb-20">
+                                <label>Tên  <span>*</span></label>
+                                <input type="text">
+                            </div>
+                           
+                            
+
+                            <div class="col-12 mb-20">
+                                <label>Địa chỉ <span>*</span></label>
+                                <input placeholder="House number and street name" type="text">
+                            </div>
+                            
+                            <div class="col-12 mb-20">
+                                <label>Tỉnh/ Thành Phố <span>*</span></label>
+                                <input type="text">
+                            </div>
+                            
+                            <div class="col-lg-6 mb-20">
+                                <label>Số Điện Thoại<span>*</span></label>
+                                <input type="text">
+                            </div>
+                            <div class="col-lg-6 mb-20">
+                                <label> Địa chỉ email   <span>*</span></label>
+                                <input type="text">
+                            </div>
+                            
+                           
+                            <div class="col-12">
+                                <div class="order-notes">
+                                    <label for="order_note">Ghi chú </label>
+                                    <textarea id="order_note" placeholder="Lưu ý cho người bán"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-6 col-md-6">
+                    <form action="#">
+                        <h3>Đơn hàng của bạn</h3>
+                        <div class="order_table table-responsive">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Sản phẩm</th>
+                                        <th>Tổng</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td> Handbag  fringilla <strong> × 2</strong></td>
+                                        <td> $165.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>  Handbag  justo	 <strong> × 2</strong></td>
+                                        <td> $50.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td>  Handbag elit	<strong> × 2</strong></td>
+                                        <td> $50.00</td>
+                                    </tr>
+                                    <tr>
+                                        <td> Handbag Rutrum	 <strong> × 1</strong></td>
+                                        <td> $50.00</td>
+                                    </tr>
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <th>Cart Subtotal</th>
+                                        <td>$215.00</td>
+                                    </tr>
+                                    <tr>
+                                        <th>Shipping</th>
+                                        <td><strong>$5.00</strong></td>
+                                    </tr>
+                                    <tr class="order_total">
+                                        <th>Order Total</th>
+                                        <td><strong>$220.00</strong></td>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                        <div class="payment_method">
+                            
+                            <div class="order_button">
+                                <button type="submit">Thanh toán</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Demo.Models.Category>
+
+@{
+    ViewData["Title"] = "Quản lý danh mục";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="card my-4">
+            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                <div class="bg-gradient-primary shadow-primary border-radius-lg pt-4 pb-3">
+                    <h6 class="text-white text-capitalize ps-3">Danh Sách Danh Mục</h6>
+                </div>
+            </div>
+            <div class="card-body px-0 pb-2">
+                <div class="table-responsive p-0">
+                    <table class="table align-items-center mb-0">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Name)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                                        <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                        <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
