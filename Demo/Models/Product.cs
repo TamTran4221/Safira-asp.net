@@ -13,6 +13,7 @@ namespace Demo.Models
         public string Content { get; set; }
         public int CategoryId { get; set; }
         public Category category { get; set; }
+        List<Cart> cart { get; set; }
         
     }
 }

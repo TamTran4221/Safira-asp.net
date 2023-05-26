@@ -1,12 +1,19 @@
-﻿
+﻿@model IEnumerable<Demo.Models.Cart>;
 @{
     ViewData["Title"] = "Index";
+}
+@if (TempData["yes"] != null)
+{
+    <div class="alert alert-success">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+        <strong>Title!</strong> @TempData["yes"]
+    </div>
 }
 
 <!--shopping cart area start -->
 <div class="shopping_cart_area mt-70">
     <div class="container">
-        <form action="#">
+        <form action="Order"method="post">
             <div class="row">
                 <div class="col-12">
                     <div class="table_desc">
@@ -20,40 +27,25 @@
                                         <th class="product-price">Giá</th>
                                         <th class="product_quantity">Số lượng</th>
                                         <th class="product_total">Tổng</th>
+                                        <th></th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr>
-                                        <td class="product_remove"><a href="#"><i class="fa fa-trash-o"></i></a></td>
-                                        <td class="product_thumb"><a href="#"><img src="~/img/product/productbig1.jpg" alt=""></a></td>
-                                        <td class="product_name"><a href="#">Handbag fringilla</a></td>
-                                        <td class="product-price">£65.00</td>
-                                        <td class="product_quantity"><label>Quantity</label> <input min="1" max="100" value="1" type="number"></td>
-                                        <td class="product_total">£130.00</td>
+                                    @foreach (var cart in Model)
+                                    {
+                                        <tr>
+                                            <td class="product_remove"><a asp-action="Remove" asp-route-id="@cart.Id">><i class="fa fa-trash-o"></i></a>
+
+                                        </td>
+                                            <td class="product_thumb"><a href="#"><img src="@cart.Image" alt="@cart.Name" width="40" /></a></td>
+                                            <td class="product_name"><a href="#">@cart.Name</a></td>
+                                            <td class="product-price">@cart.Price</td>
+                                            <td class="product_quantity"><label>@cart.Quantity</label> <input min="1" max="100" value="1" type="number"></td>
+                                            <td class="product_total">£130.00</td>
 
 
-                                    </tr>
-
-                                    <tr>
-                                        <td class="product_remove"><a href="#"><i class="fa fa-trash-o"></i></a></td>
-                                        <td class="product_thumb"><a href="#"><img src="~/img/product/productbig2.jpg" alt=""></a></td>
-                                        <td class="product_name"><a href="#">Handbags justo</a></td>
-                                        <td class="product-price">£90.00</td>
-                                        <td class="product_quantity"><label>Quantity</label> <input min="1" max="100" value="1" type="number"></td>
-                                        <td class="product_total">£180.00</td>
-
-
-                                    </tr>
-                                    <tr>
-                                        <td class="product_remove"><a href="#"><i class="fa fa-trash-o"></i></a></td>
-                                        <td class="product_thumb"><a href="#"><img src="~/img/product/productbig3.jpg" alt=""></a></td>
-                                        <td class="product_name"><a href="#">Handbag elit</a></td>
-                                        <td class="product-price">£80.00</td>
-                                        <td class="product_quantity"><label>Quantity</label> <input min="1" max="100" value="1" type="number"></td>
-                                        <td class="product_total">£160.00</td>
-
-
-                                    </tr>
+                                        </tr>
+                                    }
 
                                 </tbody>
                             </table>
@@ -87,7 +79,7 @@
                                     <p class="cart_amount">£215.00</p>
                                 </div>
                                 <div class="checkout_btn">
-                                    <a asp-controller="Cart" asp-action="Checkout">Proceed to Checkout</a>
+                                    <a asp-controller="Cart" asp-action="Checkout">Đặt Hàng</a>
                                 </div>
                             </div>
                         </div>

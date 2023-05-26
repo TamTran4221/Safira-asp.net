@@ -1,15 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AspNetCore;
+using Demo.Areas.Admin.Data;
+using Demo.Models;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
+using Newtonsoft.Json;
 
 namespace Demo.Controllers
 {
-    public class CartController : Controller
+    public class CartController : Controller, IActionFilter
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
-        public IActionResult Checkout() { 
-            return View();
-        }
+        
+
     }
 }

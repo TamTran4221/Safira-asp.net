@@ -1,4 +1,4 @@
-﻿
+﻿@model Product;
 @{
     ViewData["Title"] = "Chi tiết sản phẩm";
 }
@@ -8,8 +8,8 @@
             <div class="col-12">
                 <div class="breadcrumb_content">
                     <ul>
-                        <li><a href="index.html">home</a></li>
-                        <li>product details</li>
+                        <li><a href="index.html">Trang chủ</a></li>
+                        <li>Chi tiết sản phẩm</li>
                     </ul>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                 <div class="product-details-tab">
                     <div id="img-1" class="zoomWrapper single-zoom">
                         <a href="#">
-                            <img id="zoom1" src="~/img/product/productbig4.jpg" data-zoom-image="~/img/product/productbig4.jpg" alt="big-1">
+                            <img id="zoom1" src="~/uploads/@Model.Image" data-zoom-image="~/uploads/@Model.Image" alt="big-1">
                         </a>
                     </div>
                    
@@ -33,15 +33,15 @@
                 <div class="product_d_right">
                     <form action="#">
 
-                        <h1><a href="#">commodo augue nisi</a></h1>
+                        <h1><a href="#">@Model.Name</a></h1>
                        
                         <div class="price_box">
-                            <span class="current_price">£70.00</span>
-                            <span class="old_price">£80.00</span>
+                            <span class="current_price">@Model.SalePrice</span>
+                            <span class="old_price">@Model.Price</span>
 
                         </div>
                         <div class="product_desc">
-                            <p>eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in </p>
+                            <p>@Model.Content</p>
                         </div>
                         
                         <div class="product_variant quantity">

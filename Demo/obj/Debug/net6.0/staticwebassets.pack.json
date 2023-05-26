@@ -2081,32 +2081,12 @@
       "PackagePath": "staticwebassets\\img\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-2.jpg",
-      "PackagePath": "staticwebassets\\img\\product-2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-3.jpg",
-      "PackagePath": "staticwebassets\\img\\product-3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-4.jpg",
-      "PackagePath": "staticwebassets\\img\\product-4.jpg"
-    },
-    {
       "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-5.jpg",
       "PackagePath": "staticwebassets\\img\\product-5.jpg"
     },
     {
       "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-6.jpg",
       "PackagePath": "staticwebassets\\img\\product-6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-7.jpg",
-      "PackagePath": "staticwebassets\\img\\product-7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product-8.jpg",
-      "PackagePath": "staticwebassets\\img\\product-8.jpg"
     },
     {
       "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\img\\product\\product1.jpg",
@@ -3081,12 +3061,200 @@
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\Screenshot 2023-03-11 221611.png",
-      "PackagePath": "staticwebassets\\uploads\\Screenshot 2023-03-11 221611.png"
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product-2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\db.png",
-      "PackagePath": "staticwebassets\\uploads\\db.png"
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product-3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product-4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product-7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product-8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product11.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product14.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product15.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product16.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product17.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product18.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product19.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product20.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product21.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product22.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product23.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product24.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product25.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product26.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product27.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product28.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product29.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product30.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\product9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\product9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig11.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig12.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig13.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig14.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\Demo\\Demo\\wwwroot\\uploads\\productbig9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\productbig9.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Demo.Microsoft.AspNetCore.StaticWebAssets.props",
